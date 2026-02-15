@@ -4,6 +4,17 @@ Theoretical cosmology | Ultralight dark matter (ULDM) | Black hole dynamics
 
 I am completing a Bachelor of Philosophy (Honours) in Science at the Australian National University. My Honours project focuses on wave-based self-gravitating systems, especially black-hole dynamics in ULDM solitons and related theoretical modelling.
 
+## Education
+- **Australian National University** (Jul 2022 – Jun 2026)  
+  Bachelor of Philosophy (Honours) - Science  
+  GPA 7.0/7.0, WAM 90/100, First-class Honours  
+  Supervisors: Brian Schmidt, Richard Easther
+
+- **The University of Auckland** (Jul 2024 – Feb 2025)  
+  Visiting Scholar, Theoretical Cosmology  
+  GPA 9.0/9.0  
+  Supervisor: Richard Easther
+
 ## Research focus
 - ULDM solitons and excited-state dynamics
 - Black hole orbital evolution in wave-like dark matter backgrounds (e.g., “stone skipping” behaviour)
@@ -37,17 +48,6 @@ General interests in high-energy theory and theoretical cosmology:
 
 - **ULDM-Eigenmode-Toolkit**: eigenmode / eigenfunction decomposition utilities for Schrödinger–Poisson solitons, with analysis and reconstruction tools  
   Repo: https://github.com/Ailun-Zhang/ULDM-Eigenmode-Toolkit
-
-## Education
-- **Australian National University** (Jul 2022 – Jun 2026)  
-  Bachelor of Philosophy (Honours) - Science  
-  GPA 7.0/7.0, WAM 90/100, First-class Honours  
-  Supervisors: Brian Schmidt, Richard Easther
-
-- **The University of Auckland** (Jul 2024 – Feb 2025)  
-  Visiting Scholar, Theoretical Cosmology  
-  GPA 9.0/9.0  
-  Supervisor: Richard Easther
 
 ## Awards (selected)
 - ANU Chancellor’s Letter of Commendation (2022–2025)
