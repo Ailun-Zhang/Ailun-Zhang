@@ -2,9 +2,21 @@
 
 Graduate student in theoretical physics at the **Perimeter Institute for Theoretical Physics** and **McMaster University**.
 
-I work on the quantum beginning of the universe, Casimir energy and vacuum stability in compact spaces, effective field theory, mathematical relativity, and ultralight dark matter.
+My interests are theoretical cosmology, effective field theory, and quantum gravity: the cosmological constant and dark energy, the early universe and vacuum stability, mathematical relativity, ultralight dark matter, and black-hole dynamics.
 
 [INSPIRE-HEP](https://inspirehep.net/authors/3121237) · [ORCID](https://orcid.org/0009-0000-1187-0755) · [Email](mailto:Alan.Zhang3@outlook.com)
+
+## Education
+
+- **Perimeter Institute for Theoretical Physics & McMaster University** (Sep 2026 – present)  
+  M.Sc. in Physics (thesis), McMaster University; Associate Graduate Student, Perimeter Institute  
+  Supervisor: Clifford P. Burgess
+- **Australian National University** (Jul 2022 – Jun 2026)  
+  Bachelor of Philosophy (Honours) in Science, Specialisation in Physics, with First Class Honours  
+  Final Honours Grade 92/100; thesis 94/100; GPA 7.0/7.0  
+  Supervisors: Brian P. Schmidt and Richard Easther
+- **University of Auckland** (Jul 2024 – Feb 2025)  
+  Exchange student; research in theoretical cosmology with Richard Easther; GPA 9.0/9.0
 
 ## Publications and preprints
 
@@ -22,21 +34,9 @@ I work on the quantum beginning of the universe, Casimir energy and vacuum stabi
 
 | Repository | Description |
 | --- | --- |
-| [casimir-cosmology](https://github.com/Ailun-Zhang/casimir-cosmology) | Reproduction package for arXiv:2610.24905 and arXiv:2610.28704: production code, archived results, and one-command verification ([Zenodo](https://doi.org/10.5281/zenodo.23434067)) |
-| [ULDM-Eigenmode-Toolkit](https://github.com/Ailun-Zhang/ULDM-Eigenmode-Toolkit) | Eigenmode decomposition of Schrödinger–Poisson solitons: radial eigenfunctions and spectral coefficients from simulation outputs |
 | [PyUL_SK](https://github.com/Ailun-Zhang/PyUL_SK) | Extended PyUltraLight for black holes in ultralight-dark-matter solitons, used for the stone-skipping study |
-
-## Education
-
-- **Perimeter Institute for Theoretical Physics & McMaster University** (Sep 2026 – present)  
-  M.Sc. in Physics (thesis), McMaster University; Associate Graduate Student, Perimeter Institute  
-  Supervisor: Clifford P. Burgess
-- **Australian National University** (Jul 2022 – Jun 2026)  
-  Bachelor of Philosophy (Honours) in Science, Specialisation in Physics, with First Class Honours  
-  Final Honours Grade 92/100; thesis 94/100; GPA 7.0/7.0  
-  Supervisors: Brian P. Schmidt and Richard Easther
-- **University of Auckland** (Jul 2024 – Feb 2025)  
-  Exchange student; research in theoretical cosmology with Richard Easther; GPA 9.0/9.0
+| [ULDM-Eigenmode-Toolkit](https://github.com/Ailun-Zhang/ULDM-Eigenmode-Toolkit) | Eigenmode decomposition of Schrödinger–Poisson solitons: radial eigenfunctions and spectral coefficients from simulation outputs |
+| [casimir-cosmology](https://github.com/Ailun-Zhang/casimir-cosmology) | Code and data for arXiv:2610.24905 and arXiv:2610.28704 ([Zenodo](https://doi.org/10.5281/zenodo.23434067)) |
 
 ## Teaching and service
 
